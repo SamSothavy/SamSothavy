@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sam Sothavy
 
-<!--
-**SamSothavy/SamSothavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- SOC Analyst Aspirant
+- Security+ Student
+- Linux Enthusiast
+- Flutter Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Linux
+- Networking
+- Wireshark
+- Nmap
+- Wazuh
+- Nessus
+- Security Operations
+
+## Projects
+
+- Wazuh SIEM Lab
+- SSH Brute Force Detection
+- Nessus Vulnerability Assessment
+
+## Contact
+
+LinkedIn: your-linkedin
+Email: your-email
