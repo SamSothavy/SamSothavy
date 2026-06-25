@@ -1,9 +1,14 @@
 # Hi, I'm Sam Sothavy
-<p>
+
+<div>
   <a href="https://www.linkedin.com/in/sam-sothavy-55760a270/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+  
+  <a href="https://tryhackme.com/p/samsothavy68" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</div>
 
 ## About Me
 
@@ -24,26 +29,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Penetration Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Scanning & Enumeration | <a href="https://google.com">N/A</a>|
+| Vulnerability Assessment | <a href="https://google.com">N/A</a>|
+| Web Application Security Testing         | SOC Automation Lab|
+| Exploitation      | SOC Automation Lab|
+| Password Auditing & Cracking                  | SOC Automation Lab|
+| Privilege Escalation | SOC Automation Lab|
+| Pivoting & Lateral Movement | SOC Automation Lab|
 
 
 | SOC Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
