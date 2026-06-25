@@ -29,13 +29,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Penetration Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Scanning & Enumeration | <a href="https://google.com">N/A</a>|
-| Vulnerability Assessment | <a href="https://google.com">N/A</a>|
-| Web Application Security Testing         | SOC Automation Lab|
-| Exploitation      | SOC Automation Lab|
-| Password Auditing & Cracking                  | SOC Automation Lab|
-| Privilege Escalation | SOC Automation Lab|
-| Pivoting & Lateral Movement | SOC Automation Lab|
+| Network Scanning & Enumeration | <a href="https://github.com/SamSothavy/Network-Scanning-Enumeration">Nmap</a>|
+| Vulnerability Assessment |Coming Soon|
+| Web Application Security Testing         | Coming Soon|
+| Exploitation      | Coming Soon|
+| Password Auditing & Cracking                  |Coming Soon|
+| Privilege Escalation |Coming Soon|
+| Pivoting & Lateral Movement | Coming Soon|
 
 
 | SOC Skill                                         | Associated Project         |
