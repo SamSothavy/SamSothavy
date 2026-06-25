@@ -29,7 +29,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Penetration Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Scanning & Enumeration | <a href="https://github.com/SamSothavy/Network-Scanning-Enumeration">Nmap</a>|
+| Network Scanning & Enumeration | <a href="https://github.com/SamSothavy/Network-Scanning-Enumeration">Nmap + Reverse shell</a>|
 | Vulnerability Assessment |Coming Soon|
 | Web Application Security Testing         | Coming Soon|
 | Exploitation      | Coming Soon|
