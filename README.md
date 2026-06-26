@@ -31,6 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Network Scanning & Enumeration | <a href="https://github.com/SamSothavy/Network-Scanning-Enumeration">Nmap + Reverse shell</a>|
 | Vulnerability Assessment |<a href="https://github.com/SamSothavy/Nessus">Nessus</a>|
+|Public Exploit Research         | Coming Soon|
 | Web Application Security Testing         | Coming Soon|
 | Exploitation      | Coming Soon|
 | Password Auditing & Cracking                  |Coming Soon|
