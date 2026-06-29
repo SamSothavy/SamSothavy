@@ -34,7 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |Public Exploit Research         | <a href="https://github.com/SamSothavy/Public-Exploit-Research">Superset Vulnerability</a>|
 | Web Application Security         | <a href="https://github.com/SamSothavy/Reach2Shell">React2Shell - Web Application RCE Exploitation</a> |
 | Web Application Security         | <a href="https://github.com/SamSothavy/SQLmap">SQLmap</a> |
-| Exploitation      | Coming Soon|
+| Exploitation      | <a href="https://github.com/SamSothavy/Metasploit">Metasploit</a>|
 | Password Auditing & Cracking                  |Coming Soon|
 | Privilege Escalation |Coming Soon|
 | Pivoting & Lateral Movement | Coming Soon|
