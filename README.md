@@ -33,6 +33,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Vulnerability Assessment |<a href="https://github.com/SamSothavy/Nessus">Nessus</a>|
 |Public Exploit Research         | <a href="https://github.com/SamSothavy/Public-Exploit-Research">Superset Vulnerability</a>|
 | Web Application Security         | <a href="https://github.com/SamSothavy/Reach2Shell">React2Shell - Web Application RCE Exploitation</a> |
+| Web Application Security         | <a href="https://github.com/SamSothavy/Reach2Shell">SQLmap</a> |
 | Exploitation      | Coming Soon|
 | Password Auditing & Cracking                  |Coming Soon|
 | Privilege Escalation |Coming Soon|
