@@ -35,6 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Web Application Security         | <a href="https://github.com/SamSothavy/Reach2Shell">React2Shell - Web Application RCE Exploitation</a> |
 | Web Application Security         | <a href="https://github.com/SamSothavy/SQLmap">SQLmap</a> |
 | Exploitation      | <a href="https://github.com/SamSothavy/Metasploit">Apache Struts s2-045</a>|
+| Password Attacks                  |<a href="https://github.com/SamSothavy/Brute_force-lab">Brute-force attacks</a>|
 | Password Auditing & Cracking                  |Coming Soon|
 | Privilege Escalation |Coming Soon|
 | Pivoting & Lateral Movement | Coming Soon|
