@@ -32,8 +32,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Scanning & Enumeration | <a href="https://github.com/SamSothavy/Network-Scanning-Enumeration">Nmap + Reverse shell</a>|
 | Vulnerability Assessment |<a href="https://github.com/SamSothavy/Nessus">Nessus</a>|
 |Public Exploit Research         | <a href="https://github.com/SamSothavy/Public-Exploit-Research">Superset Vulnerability</a>|
-| Web Application Security         | <a href="https://github.com/SamSothavy/Reach2Shell">React2Shell - Web Application RCE Exploitation</a> |
-| Web Application Security         | <a href="https://github.com/SamSothavy/SQLmap">SQLmap</a> |
+| Web Application Attack         | <a href="https://github.com/SamSothavy/Reach2Shell">React2Shell - Web Application RCE Exploitation</a> |
+| Web Application Attack         | <a href="https://github.com/SamSothavy/SQLmap">SQLmap</a> |
 | Exploitation      | <a href="https://github.com/SamSothavy/Metasploit">Apache Struts s2-045</a>|
 | Password Attacks                  |<a href="https://github.com/SamSothavy/Brute_force-">Brute-force attacks</a>|
 | Password Auditing & Cracking                  |Coming Soon|
