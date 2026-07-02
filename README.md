@@ -38,7 +38,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Password Attacks                  |<a href="https://github.com/SamSothavy/Brute_force-">Brute-force attacks</a>|
 | Password Cracking                  |<a href="https://github.com/SamSothavy/Password_Cracking">Password Cracking</a>|
 | Privilege Escalation |<a href="https://github.com/SamSothavy/Priv_Esc">Privilege escalation</a>|
-| Pivoting & Lateral Movement | ..|
+| Pivoting & Lateral Movement | <a href="https://github.com/SamSothavy/Pivoting-Lateral-Movement">Pivot and Lateral Movement</a>|
 
 
 
