@@ -36,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Web Application Attack         | <a href="https://github.com/SamSothavy/SQLmap">SQLmap</a> |
 | Exploitation      | <a href="https://github.com/SamSothavy/Metasploit">Apache Struts s2-045</a>|
 | Password Attacks                  |<a href="https://github.com/SamSothavy/Brute_force-">Brute-force attacks</a>|
-| Password Auditing & Cracking                  |..|
+| Password Cracking                  |<a href="https://github.com/SamSothavy/Password_Cracking">Password Cracking</a>|
 | Privilege Escalation |..|
 | Pivoting & Lateral Movement | ..|
 
