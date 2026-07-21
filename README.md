@@ -27,7 +27,7 @@ I then worked at Tonaire Digital as a Full Stack Developer for five months befor
 Now, I am fully dedicated to building my career in Cybersecurity, especially in SOC Analysis, which is my long-term goal.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operation Center (SOC).
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operation Center (SOC)
 
 ## Skill
 
