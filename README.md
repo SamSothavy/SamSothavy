@@ -48,7 +48,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | SOC Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis          | <a href="https://github.com/SamSothavy/Malware.unknown.exe">..</a>|
+| Malware Analysis          | <a href="https://github.com/SamSothavy/Malware.unknown.exe">Malware analysis</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">..</a>|
 
 
