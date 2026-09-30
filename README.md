@@ -95,6 +95,21 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-wazuh-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Certificate
+
+<div>
+  
+<img width="1280" height="593" alt="photo_2026-09-30_16-14-06" src="https://github.com/user-attachments/assets/6bbb42d7-6fbd-4e4b-8f0f-495d20460ae8" />
+
+<img width="1280" height="593" alt="photo_2026-09-30_16-14-21" src="https://github.com/user-attachments/assets/c167168d-dc12-4f1d-bb71-cedf27818b88" />
+
+<img width="1280" height="593" alt="photo_2026-09-30_16-14-29" src="https://github.com/user-attachments/assets/aab3ae93-8270-4b25-a620-2e5dec8a7f7d" />
+
+<img width="1280" height="593" alt="photo_2026-09-30_16-14-25" src="https://github.com/user-attachments/assets/d5370ec0-5fe3-4b6a-a1ef-983f0b8fc88a" />
+
+<img width="971" height="1280" alt="photo_2026-09-30_16-14-34" src="https://github.com/user-attachments/assets/d065c7a7-c44e-4330-9a23-f468fbd4281f" />
+
+</div>
 
  
 
