@@ -50,6 +50,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Malware Analysis          | <a href="https://github.com/SamSothavy/Malware.unknown.exe">File Excel Analysis</a>|
 | Malware Analysis          | <a href="https://github.com/SamSothavy/malware.unknow.exe/tree/main">Malware.unknow.exe</a>|
+| Brute-Force Detection          | <a href="">Malware.unknow.exe</a>|
 
 
 
